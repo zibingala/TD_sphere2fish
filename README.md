@@ -1,5 +1,5 @@
 This .tox was created by MixedTechnics - as a solution for shperical2fisheye projection inside TouchDesigner.
-spherical map (equirectangular) projection to fisheye - originally for fulldome production.
+Spherical map (equirectangular) projection to fisheye - originally for fulldome production.
 
 Source for inspiration and test patterns/images for proofing the result:
 https://paulbourke.net/dome/2fish/ - Thanks to Paul Bourke!
