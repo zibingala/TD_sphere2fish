@@ -1,4 +1,7 @@
-This .tox was created by MixedTechnics - as a solution for shperical2fisheye projection inside TouchDesigner.
+
+![sphere2fish_01 4 screenshot](https://github.com/user-attachments/assets/786179e1-55b8-4d49-a527-1198af969b11)
+
+A solution for shperical2fisheye projection inside TouchDesigner.
 
 Spherical map (equirectangular) projection to fisheye - originally for fulldome production.
 
@@ -24,3 +27,5 @@ Included Test Pattern's License
 Fulldome test pattern by Paul Bourke. The images may be freely used under the condition it is not modified in any way. The image may be freely distributed as long as this license statement is included.
 
 https://paulbourke.net/dome/testpattern/
+
+
